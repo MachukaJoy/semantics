@@ -37,4 +37,4 @@ SSH: `git clone git@github.com:machukajoy/semantics.git`
 [MIT LICENCE](https://github.com/MachukaJoy/semantics/blob/master/LICENSE)
 ## Author
 
-- [Samuel G. Mwangi](https://github.com/machukajoy)
+- [Joy Machuka](https://github.com/machukajoy)
