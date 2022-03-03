@@ -1,0 +1,70 @@
+body {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande",
+		sans-serif;
+	font-weight: 300;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
+label,
+input[type="submit"] {
+	display: block;
+}
+
+
+div,
+header,
+main,
+article,
+aside,
+section,
+footer {
+	margin: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+header {
+	color: black;
+	border: 1px solid rgb(22, 17, 17);
+	background-color: grey;
+}
+
+main {
+	color: black;
+	background-color: grey;
+	border: 3px solid rgb(194, 163, 163);
+	padding: 0;
+	display: flex;
+}
+
+article,
+aside {
+	color: black;
+	background-color: rgb(187, 158, 158);
+	border: 3px solid grey;
+}
+
+article {
+	width: 70%;
+}
+
+aside {
+	width: 30%;
+}
+
+section {
+	color: black;
+	background-color: rgb(182, 161, 161);
+	border: 1px solid grey;
+}
+
+footer {
+	color: white;
+	border: 1px solid grey;
+	background-color: black;
+}
